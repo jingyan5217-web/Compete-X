@@ -1,0 +1,227 @@
+[
+  {
+    "semester": "2026春季",
+    "course_name": "Maths Competition (G2-G5)",
+    "grade": "G2-G5",
+    "day": "Tuesday, Thursday",
+    "duration_min": 60,
+    "language": "中英双语",
+    "description": "小学部数学竞赛，培养解题能力与批判性思维"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "Maths School Team II (G4-G6)",
+    "grade": "G4-G6",
+    "day": "Friday",
+    "duration_min": 90,
+    "language": "中英双语",
+    "description": "初中数学校队预备梯队，备战UKMT JMC/JMO及AMC8"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "Maths School Team I (G6-G9)",
+    "grade": "G6-G9",
+    "day": "Monday",
+    "duration_min": 60,
+    "language": "中英双语",
+    "description": "系统提升数学竞赛能力，备赛UKMT中级挑战赛"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "English Debate Team (G5-G8)",
+    "grade": "G5-G8",
+    "day": "Thursday",
+    "duration_min": 90,
+    "language": "英文",
+    "description": "英文辩论校队，培养批判性思维与公共演讲"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "Chinese Debate Competition Prep (G7-G11)",
+    "grade": "G7-G11",
+    "day": "Monday, Friday",
+    "duration_min": 120,
+    "language": "中文",
+    "description": "中文辩论备赛，备赛纵横杯等"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "Brain Bee Competition Prep (G7-G11)",
+    "grade": "G7-G11",
+    "day": "Tuesday",
+    "duration_min": 120,
+    "language": "中英双语",
+    "description": "脑科学竞赛预备，备赛Brain Bee"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "TOC Public Forum Debate (G6-G9)",
+    "grade": "G6-G9",
+    "day": "Wednesday",
+    "duration_min": 90,
+    "language": "英文",
+    "description": "美式公共论坛制辩论赛备赛"
+  },
+  {
+    "semester": "2026春季",
+    "course_name": "Preparatory Course for Business Competitions (G7-G8)",
+    "grade": "G7-G8",
+    "day": "Thursday, Friday",
+    "duration_min": 90,
+    "language": "中英双语",
+    "description": "商赛前置课程，覆盖PESTLE/波特五力/财务分析"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Maths Competition (G2-G5)",
+    "grade": "G2-G5",
+    "day": "Monday",
+    "duration_min": 60,
+    "language": "中英双语",
+    "description": "小学部数学竞赛，限时演练与策略训练"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Maths Competition (G6-G8)",
+    "grade": "G6-G8",
+    "day": "Monday",
+    "duration_min": 90,
+    "language": "中英双语",
+    "description": "备赛AMC8/10及UKMT中级挑战赛"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Maths Competition (G9-G12)",
+    "grade": "G9-G12",
+    "day": "Thursday",
+    "duration_min": 120,
+    "language": "中英双语",
+    "description": "备赛AMC12等高级竞赛"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "VEX VRC Engineering Challenge Beginner (G3-G4)",
+    "grade": "G3-G4",
+    "day": "Tuesday",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "VEX机器人竞赛基础班，备赛VRC"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "VEX VRC Competition Advanced (G5-G6)",
+    "grade": "G5-G6",
+    "day": "Wednesday",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "VEX机器人竞赛提高班"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "VEX VRC Elite Competition Master Class (G7-G9)",
+    "grade": "G7-G9",
+    "day": "Thursday",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "VEX机器人高阶竞赛大师班"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Physics Mastery Hub (G7-G8)",
+    "grade": "G7-G8",
+    "day": "Tuesday",
+    "duration_min": 120,
+    "language": "英文",
+    "description": "物理竞赛与作业辅导，备赛物理类竞赛"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Brain Science Fundamentals: Brain Bee (G7-G11)",
+    "grade": "G7-G11",
+    "day": "Tuesday",
+    "duration_min": 120,
+    "language": "中英双语",
+    "description": "脑科学竞赛预备，备赛Brain Bee"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Student Finance and Investment Competition Training (SIC+BPA+Conrad)",
+    "grade": "G7-G11",
+    "day": "Monday, Tuesday",
+    "duration_min": 120,
+    "language": "中英双语",
+    "description": "金融商赛学术培训，备赛SIC/BPA/Conrad"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "International Economics Olympiad (IEO) (G9-G12)",
+    "grade": "G9-G12",
+    "day": "Thursday",
+    "duration_min": 90,
+    "language": "英文",
+    "description": "备赛IEO国际经济学奥林匹克"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "TOC Public Forum Debate (G6-G9)",
+    "grade": "G6-G9",
+    "day": "Wednesday",
+    "duration_min": 90,
+    "language": "英文",
+    "description": "TOC美式公共论坛制辩论赛备赛"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Middle School Boys Volleyball (G6-G8)",
+    "grade": "G6-G8",
+    "day": "校队训练",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "校际联赛初中男排"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Middle School Girls Volleyball (G6-G8)",
+    "grade": "G6-G8",
+    "day": "校队训练",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "校际联赛初中女排"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Middle School Boys Basketball (G6-G8)",
+    "grade": "G6-G8",
+    "day": "校队训练",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "校际联赛初中男篮"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "Middle School Girls Basketball (G6-G8)",
+    "grade": "G6-G8",
+    "day": "校队训练",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "校际联赛初中女篮"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "High School Boys Football (G9-G12)",
+    "grade": "G9-G12",
+    "day": "校队训练",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "校际联赛高中男足"
+  },
+  {
+    "semester": "2025秋季",
+    "course_name": "High School Girls Football (G9-G12)",
+    "grade": "G9-G12",
+    "day": "校队训练",
+    "duration_min": 90,
+    "language": "中文",
+    "description": "校际联赛高中女足"
+  }
+]
